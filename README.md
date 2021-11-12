@@ -8,7 +8,7 @@ I'm Renad Al-khlafat from Tafila ,I'm a software developer with background in CI
 
 - 🔭 I’m currently studying software develpoment at LTUC-ASAC 
 - 📫 How to reach me: [email me](renadsalem8888@gamil.com)
-- 📄 ![Resume](https://docs.google.com/drawings/d/1jWP0_OOq227ynokYHZPgcuXCM2ChViQvHpxh46xdeHk/edit?usp=sharing) 
+- 📄 [Resume](https://docs.google.com/drawings/d/1jWP0_OOq227ynokYHZPgcuXCM2ChViQvHpxh46xdeHk/edit?usp=sharing) 
 
 ### languages and Tools :
 <img src="https://camo.githubusercontent.com/0a719c24a5eb8062d68bdabbd7306a0dcab0b0ce7093a8550870497456863ec9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d617232312e737667" alt="py" width ="100px">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodejs" width ="80px">  <img src="https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg" alt="react" width ="100px">  <img src="https://cdn.buttercms.com/6IOYf3uRJMGxcpXMTswN" alt="mongo" width ="150px">  <img src="https://www.aemics.nl/wp-content/uploads/2021/06/Visual-Studio-Code-logo.png" alt="vscode" width ="100px">
