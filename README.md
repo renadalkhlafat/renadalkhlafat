@@ -1,8 +1,7 @@
 ### Hi there !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm Renad Al-khlafat from Tafila ,I'm a software developer with background in CIS 
 
-[![Github](https://img.shields.io/github/followers/renadalkhlafat?label=Follow&style=social)](https://github.com/renadalkhlafat)![](https://visitor-badge.glitch.me/badge?page_id=renadalkhlafat) ![Repos Badge](https://badges.pufler.dev/repos/renadalkhlafat) ![Commits Badge](https://badges.pufler.dev/commits/monthly/renadalkhlafat)
-
+[![Github](https://img.shields.io/github/followers/renadalkhlafat?label=Follow&style=social)](https://github.com/renadalkhlafat)![](https://visitor-badge.glitch.me/badge?page_id=renadalkhlafat
 
 ![info](https://github-readme-stats.vercel.app/api?username=renadalkhlafat&show_icons=true) ![info2](https://github-readme-stats.vercel.app/api/top-langs/?username=renadalkhlafat&layout=compact)
 
